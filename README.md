@@ -83,6 +83,9 @@ These insights can help businesses:
 - dataset.csv
 - README.md
 ---
+## Dashboard Preview
+
+![Customer Segmentation Dashboard](dashboard/dashboard.png)
 
 ## Author
 Shawana Hakim  
